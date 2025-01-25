@@ -4,7 +4,7 @@
 
 A simple web application to manage employee records using HTML, CSS, and JavaScript. The application demonstrates fundamental CRUD operations: Create, Read, Update, and Delete.
 
-## Features :
+## Features 
 - Add Employees: Add new employee details to the system.
 - View Employees: Display a list of all employees.
 - Update Employees: Edit existing employee information.
